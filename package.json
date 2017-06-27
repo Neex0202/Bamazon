@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "node storefront with mySQL database",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neex0202/Bamazon.git"
+  },
+  "keywords": [
+    "mySQL",
+    "node.js",
+    "inquirer",
+    "bamazon"
+  ],
+  "author": "nico santa ana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neex0202/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Neex0202/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.1.1"
+  }
+}
